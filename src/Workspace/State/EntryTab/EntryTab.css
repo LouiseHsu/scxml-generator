@@ -1,0 +1,15 @@
+.entry-tab input {
+    width: 90%;
+    border: none;
+    left: 0px;
+    background-color: #c1eaf7;
+    text-align: center;
+    margin: 5px;
+    display: block;
+}
+
+.entry-select {
+    margin: 5px;
+}
+
+

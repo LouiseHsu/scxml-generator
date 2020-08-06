@@ -1,0 +1,9 @@
+.entry-event-item {
+    background-color: #c1eaf7;
+    margin: 5px;
+    width: max-content;
+    padding: 2px;
+    font-size: 10px;
+    text-align: center;
+    white-space: pre-wrap;
+}
